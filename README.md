@@ -1,4 +1,4 @@
-# Parallelizing Predicting Ratings using Customer Feedback
+#  Multilingual Rating Prediction with Parallel Computing
 
 ## Introduction
 
